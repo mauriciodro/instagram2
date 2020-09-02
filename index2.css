@@ -1,0 +1,78 @@
+body {
+	background: #EAE6E6;
+    
+}
+.inicio{
+    width: 100%; 
+    height: 50px;
+    padding: 10px;
+    background: white; 
+}
+h1{
+    margin-left: 31%;
+    
+}
+.photo1 {
+    display: block;
+	margin: 0 auto;
+	background: white; 
+    width: 500px; 
+    height: 410px;
+    padding: 10px;
+    line-height: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.photo2 {
+    display: block;
+	margin: 0 auto;
+	background: white; 
+    width: 500px; 
+    height: 441px;
+    padding: 10px;
+    line-height: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.photo3 {
+	margin: 0 auto;
+	background: white; 
+    width: 500px; 
+    height: 410px;
+    padding: 10px;
+    line-height: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.photo4 {
+	margin: 0 auto;
+	background: white; 
+    width: 500px; 
+    height: 410px;
+    padding: 10px;
+    line-height: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#f1 {
+    float: left;
+    color: black
+
+}
+#f2 {
+    float: right;
+    color: #BAB8B8;
+}
+.corpo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px; 
+}
+#myImage {
+	width: 520px;
+    height: 300px;
+    position: relative;
+    left: -10px;	
+}
+
+.spaces{
+    width: 100%; 
+    height: 40px;
+    padding: 10px;
+    background: EAE6E6; 
+}
